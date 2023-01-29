@@ -6,3 +6,4 @@ print(len(name))
 name_list = ['a', 'b', 'c']
 print(len(name_list))
 
+# Path: control_flow\02_len.py

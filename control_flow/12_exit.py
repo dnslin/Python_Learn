@@ -13,3 +13,6 @@ while True:
 
 # 3 个布尔操作符是什么？
 # and or not
+
+# Path: control_flow\06_bool.py
+

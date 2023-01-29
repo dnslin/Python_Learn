@@ -7,3 +7,4 @@ print("================================================")
 for i in range(5):
     print(random.randint(1, 10))
 
+# Path: control_flow\10_import.py

@@ -6,3 +6,4 @@ print((4 < 5) and (7 < 6))  # False
 print((4 < 5) or (5 < 6))  # True
 print((4 < 5) or (7 < 6))  # True
 
+# Path: control_flow\04_and_or.py

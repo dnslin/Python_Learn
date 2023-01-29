@@ -6,3 +6,5 @@ for i in range(12, 16):
 # 0 2 4 6 8
 for i in range(0, 10, 2):
     print(i)
+
+# Path: control_flow\09_range.py

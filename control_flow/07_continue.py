@@ -6,3 +6,5 @@ while num > 0:
         print("break here because num == %s" % num)
         continue
     num -= 1
+
+# Path: control_flow\07_continue.py

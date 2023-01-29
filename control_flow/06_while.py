@@ -5,3 +5,5 @@ while num > 0:
         print("break here because num == %s" % num)
         break
     num -= 1
+
+# Path: control_flow\06_while.py
