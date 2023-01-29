@@ -8,3 +8,6 @@ print(example_string.startswith("i"))  # false
 print(example_string.endswith("string"))  # True
 print(example_string.endswith("g"))  # True
 print(example_string.endswith("b"))  # false
+
+# Path: func_string\string_startswith_endswith.py
+

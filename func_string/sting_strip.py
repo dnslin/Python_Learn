@@ -10,3 +10,5 @@ print(example_string_one.strip('a'))
 print(example_string_one.lstrip('a'))
 
 print(example_string_one.rstrip('z'))
+
+# Path: func_string\sting_strip.py

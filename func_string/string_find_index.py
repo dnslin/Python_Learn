@@ -11,3 +11,6 @@ print(example_string.index("t"))
 print(example_string.index("."))
 
 print(example_string.index("b"))
+
+
+# Path: func_string\string_find_index.py

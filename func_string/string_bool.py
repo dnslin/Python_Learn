@@ -18,4 +18,7 @@
 
 # isnumeric() 检查字符串是否只包含数字字符
 
+# Path: func_string\string_bool.py
+
+
 # 以上方法都不接受任何参数 并且返回bool

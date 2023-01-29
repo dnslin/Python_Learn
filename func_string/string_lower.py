@@ -4,3 +4,6 @@ example_string = "PYTHON IS AWESOME"
 print(example_string.lower())
 
 print(example_string.casefold())
+
+# Path: func_string\string_lower.py
+
