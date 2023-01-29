@@ -15,3 +15,5 @@ del example_dict_pop['b']
 print(example_dict_pop)
 
 del example_dict_pop
+
+# Path: func_dict\dict_clear_pop_del.py

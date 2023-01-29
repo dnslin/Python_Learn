@@ -13,3 +13,5 @@ print(example_dict.get('a'))
 # 增加
 example_dict['f'] = 6
 print(example_dict)
+
+# Path: func_dict\dict_all_key.py
