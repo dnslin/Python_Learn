@@ -12,3 +12,5 @@ print(example_set.difference(example_set_two))
 print(example_set.intersection(example_set_two))
 # 并集
 print(example_set.union(example_set_two))
+
+# Path: func_set\sub_difference_union_intersection.py

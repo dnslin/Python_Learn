@@ -20,3 +20,5 @@ example_set.clear()
 # 删除集合
 
 del example_set
+
+# Path: func_set\set_add_update_del_remove_clear.py

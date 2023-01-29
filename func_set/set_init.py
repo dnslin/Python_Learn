@@ -10,3 +10,5 @@ print("a_set: ", a_set)
 print("b_set: ", b_set)
 print("c_set: ", c_set)
 print("d_set: ", d_set)
+
+# Path: func_set\set_init.py
