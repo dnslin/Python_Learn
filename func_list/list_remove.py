@@ -7,3 +7,6 @@ print(example_list)
 del example_list
 
 # print(example_list) NameError: name 'example_list' is not defined
+
+# Path: func_list\list_remove.py
+

@@ -5,3 +5,6 @@ example_list.append(10)
 print("Original list: ", example_list)
 
 print("New list: ", new_example_list)
+
+# Path: func_list\list_copy.py
+

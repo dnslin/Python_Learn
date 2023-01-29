@@ -6,3 +6,5 @@ example_list_copy = [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 for example in example_list_copy:
     example_list.append(example)
 print(example_list)
+
+# Path: func_list\list_append.py

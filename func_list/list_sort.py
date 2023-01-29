@@ -6,3 +6,6 @@ print("example_list =", example_list)
 example_list.sort(key=lambda x: x % 3)
 
 print("example_list =", example_list)
+
+# Path: func_list\list_sort.py
+

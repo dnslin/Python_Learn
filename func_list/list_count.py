@@ -4,4 +4,7 @@ print(example_list.count(1))
 # 不存在则返回0
 print(example_list.count(10))
 
+# Path: func_list\list_count.py
+
+
 

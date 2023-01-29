@@ -15,3 +15,6 @@ print(example_list[0:])
 
 # 通过步长
 print(example_list[0:9:2])  # 偶数位
+
+# Path: func_list\list_index.py
+
