@@ -12,3 +12,5 @@ class Object(object):
 obj = Object()
 obj.run()
 obj.going()
+
+# Path: func_def\def_static.py

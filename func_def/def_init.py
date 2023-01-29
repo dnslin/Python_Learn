@@ -17,3 +17,5 @@ class Person(object):
 
 person = Person(name="John", age=20)
 person.run()
+
+# Path: func_def\def_static.py
